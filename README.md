@@ -17,5 +17,5 @@ select your project folder
 ## elementos.html
 
 <img src="/assets/index.png" width="350" height="500">
-<img src="/assets/datapicker.png" width="150" height="200">
-<img src="/assets/result.png" width="150" height="200">
+<img src="/assets/datapicker.png" width="350" height="500">
+<img src="/assets/result.png" width="350" height="500">
