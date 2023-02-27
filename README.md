@@ -16,7 +16,6 @@ select your project folder
 
 ## elementos.html
 
-<img src="/assets/index.png" width="50" height="100">
-![main](/assets/index.png)
-![data picker](/assets/datapicker.png)
-![result](/assets/result.png)
+<img src="/assets/index.png" width="150" height="200">
+<img src="/assets/datapicker.png" width="150" height="200">
+<img src="/assets/result.png" width="150" height="200">
