@@ -14,7 +14,7 @@ select your project folder
 
 # Run the project
 
-## elementos.html
+## The app
 
 <img src="/assets/index.png" width="350" height="500">
 <img src="/assets/datapicker.png" width="350" height="500">
